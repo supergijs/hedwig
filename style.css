@@ -1,0 +1,24 @@
+html {
+}
+
+body{
+	width: 100%;
+	overflow-y: hidden;
+	margin: 0px;
+	font-family: Super;
+  background-color: orange;
+  animation: fade 10s infinite alternate;
+}
+
+#container{
+}
+
+#header{
+	/* position: absolute; */
+  top: 10px;
+	max-width: 350px;
+	width:90%;
+	margin-top: 0px;
+	padding: 20px;
+	z-index: 0;
+}
